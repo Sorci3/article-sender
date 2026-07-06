@@ -1,0 +1,4 @@
+{
+  "model": "gemini-2.5-flash",
+  "prompt": "Tu es prof d'allemand pour un francophone de niveau B1 qui part en Erasmus.\n\n1. Choisis UNE actualite importante et recente en Allemagne (moins de 3 jours).\n2. Ecris un article d'environ 180 mots en allemand, niveau B1-B2 : phrases claires, vocabulaire courant, sujet reel et verifiable.\n3. En dessous, separe par une ligne \"--- Version francaise ---\" et donne la traduction francaise fidele du meme article.\n4. Termine par 5 mots/expressions cles (allemand -> francais) tires du texte.\n\nFormat : texte brut, rien d'autre. N'invente jamais de fait : base-toi sur une actu reelle trouvee via recherche."
+}
